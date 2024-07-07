@@ -1,9 +1,6 @@
 # tuberculose_detector
 
-
-Here is a demo video
-Uploading 07.07.2024_14.29.15_REC.mp4…
-A new Flutter project.
+This is an app I developed using Flutter for pneumonia detection. It identifies whether you have pneumonia by analyzing X-ray images.
 
 ## Getting Started
 
