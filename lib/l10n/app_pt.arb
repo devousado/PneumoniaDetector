@@ -1,0 +1,7 @@
+{
+    "appName": "Detector De Pnoumonia",
+    "selectioOnGallery":" SELECIONAR NA GALERIA",
+    "captureByCamera":"CAPTURAR PELA CÂMERA",
+     "rayoxresult": "Resultado do seu Raio X : ",
+       "probability": "Probabilidade : "
+}
